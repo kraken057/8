@@ -1,4 +1,4 @@
-<html>
+<!doctype html>
 <head>
 <title> Kraken USA Login </title>
 
